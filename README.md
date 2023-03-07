@@ -13,4 +13,4 @@ Contagem regressiva para o próximo ano novo!.
 * Espero ter sido útil!❤
 
 ---
-Feito com ❤️ por [Naison Lima](https://gist.github.com/nailsonlima) 😊
+Feito com ❤️ por [Nailson Lima](https://gist.github.com/nailsonlima) 😊
